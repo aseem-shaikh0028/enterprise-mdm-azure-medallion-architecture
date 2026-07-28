@@ -207,8 +207,4 @@ A total of **499 duplicate customer records** were consolidated into Golden Cust
 
 ---
 
-# Author
 
-**Aseem Khan**
-
-Enterprise Data Engineering | Azure | Big Data | PySpark | Delta Lake
