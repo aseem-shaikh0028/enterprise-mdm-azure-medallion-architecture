@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databricks
+.dbc/
+
+# Delta Lake
+_delta_log/
+*.crc
+
+# Spark
+spark-warehouse/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment
+.env
